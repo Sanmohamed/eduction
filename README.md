@@ -1,1 +1,1 @@
-url: https://eduction-opal.vercel.app/login
+url: https://eduction-opal.vercel.app
